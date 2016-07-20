@@ -1,3 +1,4 @@
 *.o
-test/runner
+src/test_runner
+src/test_runner.c
 doc/*
